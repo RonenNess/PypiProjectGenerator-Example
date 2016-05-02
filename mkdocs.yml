@@ -1,0 +1,5 @@
+site_name: PypiProjectGenerator-Example.py
+docs_dir: .
+pages:
+- Home: readme.md
+theme: readthedocs
