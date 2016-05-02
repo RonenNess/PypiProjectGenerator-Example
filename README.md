@@ -1,9 +1,10 @@
 # PypiProjectGenerator-Example
-An example project generated with PypiProjectGenerator.
+An example project generated with [PypiProjectGenerator](https://github.com/RonenNess/PypiProjectGenerator).
 
-Source at [GitHub](https://github.com/RonenNess/PypiProjectGenerator-Example).
+**Note: this is not a real package and will not appear in pypi.**
 
-Docs at [PythonHosted.org](http://pythonhosted.org/pypiprojectgenerator_example/).
+- Source at [GitHub](https://github.com/RonenNess/PypiProjectGenerator-Example).
+- Docs at [PythonHosted.org](http://pythonhosted.org/pypiprojectgenerator_example/).
 
 ## Install
 
